@@ -1,0 +1,72 @@
+/* -------------------------------------------------------------------
+// markItUp!
+// By Jay Salvat - http://markitup.jaysalvat.com/
+//
+// CSS Set by Kevin Papst - http://www.kevinpapst.de/
+// ------------------------------------------------------------------*/
+.css .markItUp .class a {
+  background-image:url(images/tag.png);
+}
+.css .markItUp .bold a {
+  background-image:url(images/bold.png);
+}
+.css .markItUp .italic a {
+  background-image:url(images/italic.png);
+}
+.css .markItUp .stroke a {
+  background-image:url(images/stroke.png);
+}
+.css .markItUp .lowercase a {
+  background-image:url(images/text_lowercase.png); 
+}
+.css .markItUp .uppercase a {
+  background-image:url(images/text_uppercase.png); 
+}
+
+.css .markItUp .alignments a {
+  background-image:url(images/text_align_left.png); 
+}
+.css .markItUp .alignments .left a {
+  background-image:url(images/text_align_left.png); 
+}
+.css .markItUp .alignments .center a {
+  background-image:url(images/text_align_center.png); 
+}
+.css .markItUp .alignments .right a {
+  background-image:url(images/text_align_center.png); 
+}
+.css .markItUp .alignments .justify a {
+  background-image:url(images/text_align_justify.png); 
+}
+
+.css .markItUp .indent a {
+  background-image:url(images/text_indent.png); 
+}
+.css .markItUp .letterspacing a {
+  background-image:url(images/text_letterspacing.png); 
+}
+.css .markItUp .lineheight a {
+  background-image:url(images/text_linespacing.png); 
+}
+
+.css .markItUp .padding a {
+  background-image:url(images/text_padding_left.png); 
+}
+.css .markItUp .padding .left a {
+  background-image:url(images/text_padding_left.png);  
+}
+.css .markItUp .padding .top a {
+  background-image:url(images/text_padding_top.png);  
+}
+.css .markItUp .padding .right a {
+  background-image:url(images/text_padding_right.png);  
+}
+.css .markItUp .padding .bottom a {
+  background-image:url(images/text_padding_bottom.png); 
+}
+.css .markItUp .background a {
+  background-image:url(images/picture.png); 
+}
+.css .markItUp .css a {
+  background-image:url(images/css.png); 
+}
